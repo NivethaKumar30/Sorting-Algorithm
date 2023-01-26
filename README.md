@@ -70,6 +70,9 @@ print(insertion_sort(list_of_nums))
 
 ## Output:
 
+![SELECTION ](https://user-images.githubusercontent.com/119559844/214960050-0ae1d7af-98bc-4d00-b7b9-0c54936e909f.png)
+
+
 
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
